@@ -1,1 +1,10 @@
 EarthQuake Analysis
+
+Creating a big data analytics pipeline, using big data technologies like PySpark, MLlib, Power BI and MongoDB.
+
+Problem Statement:
+Create a model to predict the possibility of earth quakes based on sample datas from year 1965-2016.
+
+Working with earthquake data that will be transformed into summary tables.Then use these tables to
+train predictive models and predict future earthquakes. Write the final datasets to Mongodb.
+After that analyze the data by building reports and dashboards in Power BI Desktop
