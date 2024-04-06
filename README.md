@@ -12,3 +12,6 @@ Prediction: Using trained models to predict future earthquakes.
 Data Storage: Writing the final datasets to MongoDB for storage and retrieval.
 Data Analysis and Visualization: Building reports and dashboards in Power BI Desktop to analyze and visualize insights derived from the earthquake data.
 
+![image](https://github.com/javiizz/SparkProjects/assets/163339387/da3a8220-3b99-400b-baa6-53da1b60e226)
+
+
