@@ -16,5 +16,5 @@ Data Analysis and Visualization: Building reports and dashboards in Power BI Des
 
 ![image](https://github.com/javiizz/SparkProjects/assets/163339387/da3a8220-3b99-400b-baa6-53da1b60e226)
 
-Documentation link : [Earthquake Analysis](https://github.com/javiizz/SparkProjects-EarthQuake_Analysis/blob/main/Documents/EarthQuake%20Analysis.pdf)
+Documentation link : [EarthQuake Analysis](https://github.com/javiizz/SparkProjects-EarthQuake_Analysis/blob/main/Documents/EarthQuake%20Analysis.pdf)
 
