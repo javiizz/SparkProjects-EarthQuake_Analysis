@@ -1,6 +1,6 @@
 <h3 align="center">EarthQuake Analysis</h3>
 
-- 🔭 This project aims to develop a big data analytics pipeline for earthquake prediction using various big data technologies, including PySpark, MLlib, Power BI, and MongoDB. By leveraging these tools, we aim to create a robust pipeline for processing earthquake data, training predictive models, and visualizing insights through reports and dashboards.
+- 🔭 This project aims to develop a big data analytics solution for earthquake prediction using various big data technologies, including PySpark, MLlib, Power BI, and MongoDB. By leveraging these tools, our goal is to establish a comprehensive framework for processing earthquake data, training predictive models, and visualizing insights through reports and dashboards.
 
 <h4 align="left"><strong>Problem Statement</strong></h4>
 
