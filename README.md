@@ -6,7 +6,7 @@
 
 The primary objective of this project is to create a predictive model to forecast the likelihood of earthquakes based on historical earthquake data spanning from 1965 to 2016
 <br> </br>
-We will initially work with sample data to develop and validate the model .The pipeline involves the following steps:
+We will initially work with sample data to develop and validate the model .The process encompasses the following steps:
 <br></br>
 Data Preprocessing: Transforming raw earthquake data into summary tables suitable for model training.\
 Model Training: Utilizing MLlib to train predictive models based on historical earthquake data.\
